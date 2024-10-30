@@ -21,12 +21,12 @@
 ## Installation
 
 1. Clone the repository:
-   ```bash
+   ```
    git clone https://github.com/Piyush12800/TashCam.git
    cd tashcam 
 
 2 Requirements 
-    ```bash
+    ```
     
     pip install opencv-python numpy pyvirtualcam mediapipe
 
@@ -39,6 +39,6 @@ UnityCapture: Ensure it's installed and configured to use your virtual camera.
 ## Usage
 Run the application:
 
-bash
+
 ```
 python app.py
