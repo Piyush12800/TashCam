@@ -15,19 +15,20 @@
 - `numpy`
 - `pyvirtualcam`
 - `colorsys`
+- `mediapipe`
 - **OBS Virtual Camera** or **UnityCapture** for virtual camera output
 
 ## Installation
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/tashcam.git
+   git clone https://github.com/Piyush12800/TashCam.git
    cd tashcam 
 
 2 Requirements 
     ```bash
     
-    pip install opencv-python numpy pyvirtualcam 
+    pip install opencv-python numpy pyvirtualcam mediapipe
 
     
 3. Set up OBS Studio or UnityCapture:
