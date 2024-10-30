@@ -22,11 +22,14 @@
 1. Clone the repository:
    ```bash
    git clone https://github.com/yourusername/tashcam.git
-   cd tashcam ```
+   cd tashcam 
 
 2 Requirements 
     ```bash
-    pip install opencv-python numpy pyvirtualcam ```
+    
+    pip install opencv-python numpy pyvirtualcam 
+
+    
 3. Set up OBS Studio or UnityCapture:
 
 OBS Studio: Download and install from obsproject.com.
